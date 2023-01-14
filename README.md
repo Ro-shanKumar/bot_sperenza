@@ -20,13 +20,13 @@ npm i mongoose ejs express body-parser lodash discord.js
 {
 You have to use your own Discord Bot Token and invite a bot 
 
-Replace the Token to the your Discord Bot Token
+Replace the Token to the your Discord Bot Token in .env file
 
 turn on Developers mode on Discord in the settings => Advanced
 copy the Guild_id by clicking on the server icon and then Copy Id
-Replace the Guild_id to the your Server Guild_id
+Replace the Guild_id to the your Server Guild_id in .env file
 copy the Guild_id by clicking on the discord icon and then Copy Id
-Replace the Cleint_id to the your Server Cleint_id
+Replace the Cleint_id to the your Server Cleint_id in .env file
 
 register the commands by running
 node register-command.js
